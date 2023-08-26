@@ -4,8 +4,8 @@ A template to deploy [JSON Server](https://github.com/typicode/json-server) to [
 
 Demo from this repository: 
 
-1. [https://json-server-in.vercel.app](https://codx-json-server.vercel.app/)
-2. [https://json-server-in.vercel.app/api/posts](https://codx-json-server.vercel.app/Menu)
+1. https://codx-json-server.vercel.app/
+2. https://codx-json-server.vercel.app/Menu
 3. https://codx-json-server.vercel.app/feedback
 
 ### How to use
