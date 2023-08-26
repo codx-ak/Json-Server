@@ -4,8 +4,9 @@ A template to deploy [JSON Server](https://github.com/typicode/json-server) to [
 
 Demo from this repository: 
 
-1. https://json-server-in.vercel.app
-2. https://json-server-in.vercel.app/api/posts
+1. [https://json-server-in.vercel.app](https://codx-json-server.vercel.app/)
+2. [https://json-server-in.vercel.app/api/posts](https://codx-json-server.vercel.app/Menu)
+3. https://codx-json-server.vercel.app/feedback
 
 ### How to use
 
@@ -20,13 +21,24 @@ Demo from this repository:
 
 ```json
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "Menu": [
+    {
+        "section_name": "Desserts",
+        "items": [
+            {
+                "name": "Chocolate Lava Cake",
+                "description": "Warm chocolate cake with a gooey molten center, served with vanilla ice cream.",
+                "price": 6.99,
+                "image": "https://github.com/codx-paradise/Json-Server/blob/main/Images/breakfast1.png"
+            }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "feedback": [
+    {
+        "customer_name": "Emily Johnson",
+        "rating": 4.8,
+        "feedback_text": "I had an amazing stay at Luxury Haven Hotel. The staff was incredibly welcoming, and the room was spacious"
+    }
+  ]
 }
 ```
 
