@@ -7,19 +7,19 @@
               "item_name": "Pancakes",
               "description": "Fluffy pancakes served with maple syrup and butter.",
               "price": 7.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast1.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast1.png?raw=true"
             },
             {
               "item_name": "Eggs Benedict",
               "description": "Poached eggs on an English muffin with Canadian bacon and hollandaise sauce.",
               "price": 9.49,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast2.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast2.png?raw=true"
             },
             {
               "item_name": "French Toast",
               "description": "Thick slices of French toast topped with powdered sugar and fresh berries.",
               "price": 6.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast3.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast3.png?raw=true"
             }
           ]
         },
@@ -30,19 +30,19 @@
               "item_name": "Steak Frites",
               "description": "Grilled sirloin steak served with shoestring fries and garlic aioli.",
               "price": 18.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch1.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch1.png?raw=true"
             },
             {
               "item_name": "Salmon Salad",
               "description": "Grilled salmon filet on a bed of mixed greens with citrus vinaigrette.",
               "price": 16.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch2.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch2.png?raw=true"
             },
             {
               "item_name": "Pasta Primavera",
               "description": "Mixed vegetables and pasta in a light cream sauce.",
               "price": 14.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch3.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch3.png?raw=true"
             }
           ]
         },
@@ -53,19 +53,19 @@
               "item_name": "Filet Mignon",
               "description": "Tender filet mignon cooked to perfection, served with mashed potatoes and asparagus.",
               "price": 27.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner1.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner1.png?raw=true"
             },
             {
               "item_name": "Lobster Tail",
               "description": "Grilled lobster tail served with drawn butter and lemon.",
               "price": 32.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner2.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner2.png?raw=true"
             },
             {
               "item_name": "Vegetable Risotto",
               "description": "Creamy risotto with seasonal vegetables and Parmesan cheese.",
               "price": 19.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner3.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner3.png?raw=true"
             }
           ]
         }
@@ -78,19 +78,19 @@
               "name": "Chocolate Lava Cake",
               "description": "Warm chocolate cake with a gooey molten center, served with vanilla ice cream.",
               "price": 6.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast1.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast1.png?raw=true"
             },
             {
               "name": "Tiramisu",
               "description": "Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
               "price": 7.49,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast2.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast2.png?raw=true"
             },
             {
               "name": "Fruit Tart",
               "description": "Buttery tart shell filled with custard and topped with fresh seasonal fruits.",
               "price": 5.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast3.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast3.png?raw=true"
             }
           ]
         },
@@ -101,19 +101,19 @@
               "name": "Steak",
               "description": "A juicy grilled steak served with garlic mashed potatoes and seasonal vegetables.",
               "price": 18.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast4.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast4.png?raw=true"
             },
             {
               "name": "Grilled Chicken",
               "description": "Tender grilled chicken breast marinated in herbs and spices.",
               "price": 15.49,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast5.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast5.png?raw=true"
             },
             {
               "name": "Salmon",
               "description": "Pan-seared salmon fillet served with lemon butter sauce.",
               "price": 17.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast6.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast6.png?raw=true"
             }
           ]
         },
@@ -124,19 +124,19 @@
               "name": "Sampler Platter",
               "description": "A delicious assortment of mini spring rolls, chicken wings, and mozzarella sticks.",
               "price": 10.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch1.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch1.png?raw=true"
             },
             {
               "name": "Bruschetta",
               "description": "Toasted baguette slices topped with fresh tomatoes, basil, and balsamic glaze.",
               "price": 7.49,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch2.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch2.png?raw=true"
             },
             {
               "name": "Spinach Dip",
               "description": "Creamy spinach and artichoke dip served with tortilla chips.",
               "price": 8.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch3.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch3.png?raw=true"
             }
           ]
         },
@@ -147,19 +147,19 @@
               "name": "Spaghetti Carbonara",
               "description": "Classic spaghetti with creamy carbonara sauce, bacon, and parmesan cheese.",
               "price": 12.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch4.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch4.png?raw=true"
             },
             {
               "name": "Penne Primavera",
               "description": "Penne pasta tossed with fresh vegetables in a light olive oil and garlic sauce.",
               "price": 11.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch5.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch5.png?raw=true"
             },
             {
               "name": "Chicken Alfredo",
               "description": "Grilled chicken and fettuccine pasta in a rich alfredo sauce.",
               "price": 13.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch6.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch6.png?raw=true"
             }
           ]
         },
@@ -170,19 +170,19 @@
               "name": "Caesar Salad",
               "description": "Crisp romaine lettuce, croutons, and parmesan cheese with Caesar dressing.",
               "price": 9.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner1.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner1.png?raw=true"
             },
             {
               "name": "Greek Salad",
               "description": "Fresh cucumbers, tomatoes, olives, and feta cheese with Greek vinaigrette.",
               "price": 8.49,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner2.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner2.png?raw=true"
             },
             {
               "name": "Caprese Salad",
               "description": "Slices of ripe tomatoes, fresh mozzarella, and basil with balsamic glaze.",
               "price": 7.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner3.png"
+              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner3.png?raw=true"
             }
           ]
         }
