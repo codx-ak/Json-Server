@@ -2,9 +2,9 @@
   "name": "json-server",
   "version": "1.0.0",
   "description": "Restaurant-Management-System DataBase",
-  "main": "api/server.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node api/server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "json-server": "^0.17.0"
