@@ -13,13 +13,13 @@
               "item_name": "Eggs Benedict",
               "description": "Poached eggs on an English muffin with Canadian bacon and hollandaise sauce.",
               "price": 9.49,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast2.png?raw=true"
+              "image":"/static/media/breakfast2.659ea00738d60d82f5ed.png"
             },
             {
               "item_name": "French Toast",
               "description": "Thick slices of French toast topped with powdered sugar and fresh berries.",
               "price": 6.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast3.png?raw=true"
+              "image":"/static/media/breakfast3.0fee32eac2d04e7aab56.png"
             }
           ]
         },
@@ -30,7 +30,7 @@
               "item_name": "Steak Frites",
               "description": "Grilled sirloin steak served with shoestring fries and garlic aioli.",
               "price": 18.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch1.png?raw=true"
+              "image":"../../assets/Menu/dinner1.pngs"
             },
             {
               "item_name": "Salmon Salad",
