@@ -30,19 +30,19 @@
               "item_name": "Steak Frites",
               "description": "Grilled sirloin steak served with shoestring fries and garlic aioli.",
               "price": 18.99,
-              "image":"../../assets/Menu/dinner1.pngs"
+              "image":"/static/media/lunch1.1e64546f724cbd988498.png"
             },
             {
               "item_name": "Salmon Salad",
               "description": "Grilled salmon filet on a bed of mixed greens with citrus vinaigrette.",
               "price": 16.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch2.png?raw=true"
+              "image":"/static/media/lunch2.5f01f1ce4ad4a63c1027.png"
             },
             {
               "item_name": "Pasta Primavera",
               "description": "Mixed vegetables and pasta in a light cream sauce.",
               "price": 14.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch3.png?raw=true"
+              "image":"/static/media/lunch3.0ad7af348a05466d0c6d.png"
             }
           ]
         },
@@ -53,19 +53,19 @@
               "item_name": "Filet Mignon",
               "description": "Tender filet mignon cooked to perfection, served with mashed potatoes and asparagus.",
               "price": 27.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner1.png?raw=true"
+              "image":"/static/media/dinner1.cdc7380300f22917664e.png"
             },
             {
               "item_name": "Lobster Tail",
               "description": "Grilled lobster tail served with drawn butter and lemon.",
               "price": 32.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner2.png?raw=true"
+              "image":"/static/media/dinner2.897df94a0a8614d806a0.png"
             },
             {
               "item_name": "Vegetable Risotto",
               "description": "Creamy risotto with seasonal vegetables and Parmesan cheese.",
               "price": 19.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner3.png?raw=true"
+              "image":"/static/media/dinner3.336624e45be95b3f88e8.png"
             }
           ]
         }
