@@ -78,19 +78,19 @@
               "name": "Chocolate Lava Cake",
               "description": "Warm chocolate cake with a gooey molten center, served with vanilla ice cream.",
               "price": 6.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast1.png?raw=true"
+              "image":"/static/media/breakfast1.029174cee5bc3d9aada4.png"
             },
             {
               "name": "Tiramisu",
               "description": "Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
               "price": 7.49,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast2.png?raw=true"
+              "image":"/static/media/breakfast2.659ea00738d60d82f5ed.png"
             },
             {
               "name": "Fruit Tart",
               "description": "Buttery tart shell filled with custard and topped with fresh seasonal fruits.",
               "price": 5.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast3.png?raw=true"
+              "image":"/static/media/breakfast3.0fee32eac2d04e7aab56.png"
             }
           ]
         },
@@ -101,19 +101,19 @@
               "name": "Steak",
               "description": "A juicy grilled steak served with garlic mashed potatoes and seasonal vegetables.",
               "price": 18.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast4.png?raw=true"
+              "image":"/static/media/lunch1.1e64546f724cbd988498.png"
             },
             {
               "name": "Grilled Chicken",
               "description": "Tender grilled chicken breast marinated in herbs and spices.",
               "price": 15.49,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast5.png?raw=true"
+              "image":"/static/media/lunch2.5f01f1ce4ad4a63c1027.png"
             },
             {
               "name": "Salmon",
               "description": "Pan-seared salmon fillet served with lemon butter sauce.",
               "price": 17.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/breakfast6.png?raw=true"
+              "image":"/static/media/lunch3.0ad7af348a05466d0c6d.png"
             }
           ]
         },
@@ -124,19 +124,19 @@
               "name": "Sampler Platter",
               "description": "A delicious assortment of mini spring rolls, chicken wings, and mozzarella sticks.",
               "price": 10.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch1.png?raw=true"
+              "image":"/static/media/dinner1.cdc7380300f22917664e.png"
             },
             {
               "name": "Bruschetta",
               "description": "Toasted baguette slices topped with fresh tomatoes, basil, and balsamic glaze.",
               "price": 7.49,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch2.png?raw=true"
+              "image":"/static/media/dinner2.897df94a0a8614d806a0.png"
             },
             {
               "name": "Spinach Dip",
               "description": "Creamy spinach and artichoke dip served with tortilla chips.",
               "price": 8.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch3.png?raw=true"
+              "image":"/static/media/dinner3.336624e45be95b3f88e8.png"
             }
           ]
         },
@@ -147,19 +147,19 @@
               "name": "Spaghetti Carbonara",
               "description": "Classic spaghetti with creamy carbonara sauce, bacon, and parmesan cheese.",
               "price": 12.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch4.png?raw=true"
+              "image":"/static/media/breakfast1.029174cee5bc3d9aada4.png"
             },
             {
               "name": "Penne Primavera",
               "description": "Penne pasta tossed with fresh vegetables in a light olive oil and garlic sauce.",
               "price": 11.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch5.png?raw=true"
+              "image":"/static/media/dinner1.cdc7380300f22917664e.png"
             },
             {
               "name": "Chicken Alfredo",
               "description": "Grilled chicken and fettuccine pasta in a rich alfredo sauce.",
               "price": 13.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/lunch6.png?raw=true"
+              "image":"/static/media/lunch1.1e64546f724cbd988498.png"
             }
           ]
         },
@@ -170,19 +170,19 @@
               "name": "Caesar Salad",
               "description": "Crisp romaine lettuce, croutons, and parmesan cheese with Caesar dressing.",
               "price": 9.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner1.png?raw=true"
+              "image":"/static/media/breakfast2.659ea00738d60d82f5ed.png"
             },
             {
               "name": "Greek Salad",
               "description": "Fresh cucumbers, tomatoes, olives, and feta cheese with Greek vinaigrette.",
               "price": 8.49,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner2.png?raw=true"
+              "image":"/static/media/dinner2.897df94a0a8614d806a0.png"
             },
             {
               "name": "Caprese Salad",
               "description": "Slices of ripe tomatoes, fresh mozzarella, and basil with balsamic glaze.",
               "price": 7.99,
-              "image":"https://github.com/codx-paradise/Json-Server/blob/main/img/dinner3.png?raw=true"
+              "image":"/static/media/lunch2.5f01f1ce4ad4a63c1027.png"
             }
           ]
         }
@@ -232,14 +232,8 @@
           "id":321,
           "table_no": 321,
           "seating_capacity": 3,
-          "status": "Booked",
-          "reservation": {
-            "name":"Moorthi",
-            "email":"moorthi@gmail.com",
-            "guest":2,
-            "checkIn":"28-08-2023",
-            "time":"2pm - 4pm"
-          },
+          "status": "Available",
+          "reservation": {},
           "orders": []
         },
         {
