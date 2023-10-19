@@ -1,313 +1,322 @@
 {
-    "Sample_Menu":[
+  "Sample_Menu": [
+    {
+      "section_name": "BREAKFAST",
+      "items": [
         {
-          "section_name": "BREAKFAST",
-          "items": [
-            {
-              "item_name": "Pancakes",
-              "description": "Fluffy pancakes served with maple syrup and butter.",
-              "price": 7.99,
-              "image":"/static/media/breakfast1.029174cee5bc3d9aada4.png"
-            },
-            {
-              "item_name": "Eggs Benedict",
-              "description": "Poached eggs on an English muffin with Canadian bacon and hollandaise sauce.",
-              "price": 9.49,
-              "image":"/static/media/breakfast2.659ea00738d60d82f5ed.png"
-            },
-            {
-              "item_name": "French Toast",
-              "description": "Thick slices of French toast topped with powdered sugar and fresh berries.",
-              "price": 6.99,
-              "image":"/static/media/breakfast3.0fee32eac2d04e7aab56.png"
-            }
-          ]
+          "item_name": "Pancakes",
+          "description": "Fluffy pancakes served with maple syrup and butter.",
+          "price": 7.99,
+          "image": "/static/media/breakfast1.029174cee5bc3d9aada4.png"
         },
         {
-          "section_name": "LUNCH",
-          "items": [
-            {
-              "item_name": "Steak Frites",
-              "description": "Grilled sirloin steak served with shoestring fries and garlic aioli.",
-              "price": 18.99,
-              "image":"/static/media/lunch1.1e64546f724cbd988498.png"
-            },
-            {
-              "item_name": "Salmon Salad",
-              "description": "Grilled salmon filet on a bed of mixed greens with citrus vinaigrette.",
-              "price": 16.99,
-              "image":"/static/media/lunch2.5f01f1ce4ad4a63c1027.png"
-            },
-            {
-              "item_name": "Pasta Primavera",
-              "description": "Mixed vegetables and pasta in a light cream sauce.",
-              "price": 14.99,
-              "image":"/static/media/lunch3.0ad7af348a05466d0c6d.png"
-            }
-          ]
+          "item_name": "Eggs Benedict",
+          "description": "Poached eggs on an English muffin with Canadian bacon and hollandaise sauce.",
+          "price": 9.49,
+          "image": "/static/media/breakfast2.659ea00738d60d82f5ed.png"
         },
         {
-          "section_name": "DINNER",
-          "items": [
-            {
-              "item_name": "Filet Mignon",
-              "description": "Tender filet mignon cooked to perfection, served with mashed potatoes and asparagus.",
-              "price": 27.99,
-              "image":"/static/media/dinner1.cdc7380300f22917664e.png"
-            },
-            {
-              "item_name": "Lobster Tail",
-              "description": "Grilled lobster tail served with drawn butter and lemon.",
-              "price": 32.99,
-              "image":"/static/media/dinner2.897df94a0a8614d806a0.png"
-            },
-            {
-              "item_name": "Vegetable Risotto",
-              "description": "Creamy risotto with seasonal vegetables and Parmesan cheese.",
-              "price": 19.99,
-              "image":"/static/media/dinner3.336624e45be95b3f88e8.png"
-            }
-          ]
-        }
-      ],
-    "Menu":[
-        {
-          "section_name": "Desserts",
-          "items": [
-            {
-              "name": "Chocolate Lava Cake",
-              "description": "Warm chocolate cake with a gooey molten center, served with vanilla ice cream.",
-              "price": 6.99,
-              "image":"/static/media/breakfast1.029174cee5bc3d9aada4.png"
-            },
-            {
-              "name": "Tiramisu",
-              "description": "Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
-              "price": 7.49,
-              "image":"/static/media/breakfast2.659ea00738d60d82f5ed.png"
-            },
-            {
-              "name": "Fruit Tart",
-              "description": "Buttery tart shell filled with custard and topped with fresh seasonal fruits.",
-              "price": 5.99,
-              "image":"/static/media/breakfast3.0fee32eac2d04e7aab56.png"
-            }
-          ]
-        },
-        {
-          "section_name": "Entrees",
-          "items": [
-            {
-              "name": "Steak",
-              "description": "A juicy grilled steak served with garlic mashed potatoes and seasonal vegetables.",
-              "price": 18.99,
-              "image":"/static/media/lunch1.1e64546f724cbd988498.png"
-            },
-            {
-              "name": "Grilled Chicken",
-              "description": "Tender grilled chicken breast marinated in herbs and spices.",
-              "price": 15.49,
-              "image":"/static/media/lunch2.5f01f1ce4ad4a63c1027.png"
-            },
-            {
-              "name": "Salmon",
-              "description": "Pan-seared salmon fillet served with lemon butter sauce.",
-              "price": 17.99,
-              "image":"/static/media/lunch3.0ad7af348a05466d0c6d.png"
-            }
-          ]
-        },
-        {
-          "section_name": "Appetizers",
-          "items": [
-            {
-              "name": "Sampler Platter",
-              "description": "A delicious assortment of mini spring rolls, chicken wings, and mozzarella sticks.",
-              "price": 10.99,
-              "image":"/static/media/dinner1.cdc7380300f22917664e.png"
-            },
-            {
-              "name": "Bruschetta",
-              "description": "Toasted baguette slices topped with fresh tomatoes, basil, and balsamic glaze.",
-              "price": 7.49,
-              "image":"/static/media/dinner2.897df94a0a8614d806a0.png"
-            },
-            {
-              "name": "Spinach Dip",
-              "description": "Creamy spinach and artichoke dip served with tortilla chips.",
-              "price": 8.99,
-              "image":"/static/media/dinner3.336624e45be95b3f88e8.png"
-            }
-          ]
-        },
-        {
-          "section_name": "pasta",
-          "items": [
-            {
-              "name": "Spaghetti Carbonara",
-              "description": "Classic spaghetti with creamy carbonara sauce, bacon, and parmesan cheese.",
-              "price": 12.99,
-              "image":"/static/media/breakfast1.029174cee5bc3d9aada4.png"
-            },
-            {
-              "name": "Penne Primavera",
-              "description": "Penne pasta tossed with fresh vegetables in a light olive oil and garlic sauce.",
-              "price": 11.99,
-              "image":"/static/media/dinner1.cdc7380300f22917664e.png"
-            },
-            {
-              "name": "Chicken Alfredo",
-              "description": "Grilled chicken and fettuccine pasta in a rich alfredo sauce.",
-              "price": 13.99,
-              "image":"/static/media/lunch1.1e64546f724cbd988498.png"
-            }
-          ]
-        },
-        {
-          "section_name": "Salads",
-          "items": [
-            {
-              "name": "Caesar Salad",
-              "description": "Crisp romaine lettuce, croutons, and parmesan cheese with Caesar dressing.",
-              "price": 9.99,
-              "image":"/static/media/breakfast2.659ea00738d60d82f5ed.png"
-            },
-            {
-              "name": "Greek Salad",
-              "description": "Fresh cucumbers, tomatoes, olives, and feta cheese with Greek vinaigrette.",
-              "price": 8.49,
-              "image":"/static/media/dinner2.897df94a0a8614d806a0.png"
-            },
-            {
-              "name": "Caprese Salad",
-              "description": "Slices of ripe tomatoes, fresh mozzarella, and basil with balsamic glaze.",
-              "price": 7.99,
-              "image":"/static/media/lunch2.5f01f1ce4ad4a63c1027.png"
-            }
-          ]
-        }
-      ],
-    "Tables":[
-        {
-          "id":231,
-          "table_no": 231,
-          "seating_capacity": 5,
-          "status": "Available",
-          "reservation": {},
-          "orders": []
-        },
-        {
-          "id":232,
-          "table_no": 232,
-          "seating_capacity": 5,
-          "status": "Available",
-          "reservation": {},
-          "orders": []
-        },
-        {
-          "id":234,
-          "table_no": 234,
-          "seating_capacity": 5,
-          "status": "Available",
-          "reservation": {},
-          "orders": []
-        },
-        {
-          "id":235,
-          "table_no": 235,
-          "seating_capacity": 1,
-          "status": "Available",
-          "reservation": {},
-          "orders": []
-        },
-        {
-          "id":320,
-          "table_no": 320,
-          "seating_capacity": 2,
-          "status": "Available",
-          "reservation": {},
-          "orders": []
-        },
-        {
-          "id":321,
-          "table_no": 321,
-          "seating_capacity": 3,
-          "status": "Available",
-          "reservation": {},
-          "orders": []
-        },
-        {
-          "id":322,
-          "table_no": 322,
-          "seating_capacity": 4,
-          "status": "Available",
-          "reservation": {},
-          "orders": []
-        }
-      ],
-    "feedback": [
-        {
-          "id":1,
-          "customer_name": "Emily Johnson",
-          "rating": 4.8,
-          "feedback_text": "I had an amazing stay at Luxury Haven Hotel. The staff was incredibly welcoming, and the room was spacious and luxurious. The only minor issue was a slow Wi-Fi connection."
-        },
-        {
-          "id":2,
-          "customer_name": "Michael Parker",
-          "rating": 5.0,
-          "feedback_text": "Seaside Retreat Resort exceeded my expectations. The beachfront view from my room was breathtaking, and the service was impeccable. I can't wait to return!"
-        },
-        {
-          "id":3,
-          "customer_name": "Sophia Chen",
-          "rating": 4.5,
-          "feedback_text": "I enjoyed my stay at Downtown Suites. The location was convenient, and the room was clean and comfortable. The only drawback was limited parking space."
-        },
-        {
-          "id":4,
-          "customer_name": "Alex Turner",
-          "rating": 4.7,
-          "feedback_text": "Mountain Lodge Inn offered a serene escape. The mountain views were breathtaking, and the cozy atmosphere made it a perfect getaway. The breakfast options could be more diverse."
-        },
-        {
-          "id":5,
-          "customer_name": "Olivia Smith",
-          "rating": 4.9,
-          "feedback_text": "Urban Oasis Hotel was a true oasis of relaxation. The amenities were top-notch, and the spa was heavenly. The only suggestion would be to have more vegetarian dining options."
-        },
-        {
-          "id":6,
-          "customer_name": "William Garcia",
-          "rating": 4.6,
-          "feedback_text": "I appreciated the historical ambiance of Cultural Heritage Inn. The decor was captivating, and the staff was knowledgeable. It would be great to have more modern amenities."
-        },
-        {
-          "id":7,
-          "customer_name": "Sophie Martin",
-          "rating": 4.8,
-          "feedback_text": "Gastronome Suites delighted my taste buds. The restaurant's culinary creations were exceptional, and the presentation was artful. The service, however, had slight delays."
-        },
-        {
-          "id":8,
-          "customer_name": "David Thompson",
-          "rating": 4.7,
-          "feedback_text": "Family Fun Resort was a hit with my kids. The activities kept them entertained, and the family-friendly environment was perfect. More variety in dining would make it even better."
-        },
-        {
-          "id":9,
-          "customer_name": "Ava Rodriguez",
-          "rating": 4.9,
-          "feedback_text": "Modern Comforts Inn truly lived up to its name. The room's tech features were convenient, and the bed was incredibly comfortable. A USB charging port next to the bed would be handy."
-        },
-        {
-          "id":10,
-          "customer_name": "Daniel Lee",
-          "rating": 4.6,
-          "feedback_text": "Efficient Business Hotel had the amenities I needed for my work trip. The meeting facilities were well-equipped, and the location was ideal. Some noise from the nearby road was noticeable."
+          "item_name": "French Toast",
+          "description": "Thick slices of French toast topped with powdered sugar and fresh berries.",
+          "price": 6.99,
+          "image": "/static/media/breakfast3.0fee32eac2d04e7aab56.png"
         }
       ]
+    },
+    {
+      "section_name": "LUNCH",
+      "items": [
+        {
+          "item_name": "Steak Frites",
+          "description": "Grilled sirloin steak served with shoestring fries and garlic aioli.",
+          "price": 18.99,
+          "image": "/static/media/lunch1.1e64546f724cbd988498.png"
+        },
+        {
+          "item_name": "Salmon Salad",
+          "description": "Grilled salmon filet on a bed of mixed greens with citrus vinaigrette.",
+          "price": 16.99,
+          "image": "/static/media/lunch2.5f01f1ce4ad4a63c1027.png"
+        },
+        {
+          "item_name": "Pasta Primavera",
+          "description": "Mixed vegetables and pasta in a light cream sauce.",
+          "price": 14.99,
+          "image": "/static/media/lunch3.0ad7af348a05466d0c6d.png"
+        }
+      ]
+    },
+    {
+      "section_name": "DINNER",
+      "items": [
+        {
+          "item_name": "Filet Mignon",
+          "description": "Tender filet mignon cooked to perfection, served with mashed potatoes and asparagus.",
+          "price": 27.99,
+          "image": "/static/media/dinner1.cdc7380300f22917664e.png"
+        },
+        {
+          "item_name": "Lobster Tail",
+          "description": "Grilled lobster tail served with drawn butter and lemon.",
+          "price": 32.99,
+          "image": "/static/media/dinner2.897df94a0a8614d806a0.png"
+        },
+        {
+          "item_name": "Vegetable Risotto",
+          "description": "Creamy risotto with seasonal vegetables and Parmesan cheese.",
+          "price": 19.99,
+          "image": "/static/media/dinner3.336624e45be95b3f88e8.png"
+        }
+      ]
+    }
+  ],
+  "Menu": [
+    {
+      "section_name": "Desserts",
+      "items": [
+        {
+          "name": "Chocolate Lava Cake",
+          "description": "Warm chocolate cake with a gooey molten center, served with vanilla ice cream.",
+          "price": 6.99,
+          "image": "/static/media/breakfast1.029174cee5bc3d9aada4.png"
+        },
+        {
+          "name": "Tiramisu",
+          "description": "Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+          "price": 7.49,
+          "image": "/static/media/breakfast2.659ea00738d60d82f5ed.png"
+        },
+        {
+          "name": "Fruit Tart",
+          "description": "Buttery tart shell filled with custard and topped with fresh seasonal fruits.",
+          "price": 5.99,
+          "image": "/static/media/breakfast3.0fee32eac2d04e7aab56.png"
+        }
+      ]
+    },
+    {
+      "section_name": "Entrees",
+      "items": [
+        {
+          "name": "Steak",
+          "description": "A juicy grilled steak served with garlic mashed potatoes and seasonal vegetables.",
+          "price": 18.99,
+          "image": "/static/media/lunch1.1e64546f724cbd988498.png"
+        },
+        {
+          "name": "Grilled Chicken",
+          "description": "Tender grilled chicken breast marinated in herbs and spices.",
+          "price": 15.49,
+          "image": "/static/media/lunch2.5f01f1ce4ad4a63c1027.png"
+        },
+        {
+          "name": "Salmon",
+          "description": "Pan-seared salmon fillet served with lemon butter sauce.",
+          "price": 17.99,
+          "image": "/static/media/lunch3.0ad7af348a05466d0c6d.png"
+        }
+      ]
+    },
+    {
+      "section_name": "Appetizers",
+      "items": [
+        {
+          "name": "Sampler Platter",
+          "description": "A delicious assortment of mini spring rolls, chicken wings, and mozzarella sticks.",
+          "price": 10.99,
+          "image": "/static/media/dinner1.cdc7380300f22917664e.png"
+        },
+        {
+          "name": "Bruschetta",
+          "description": "Toasted baguette slices topped with fresh tomatoes, basil, and balsamic glaze.",
+          "price": 7.49,
+          "image": "/static/media/dinner2.897df94a0a8614d806a0.png"
+        },
+        {
+          "name": "Spinach Dip",
+          "description": "Creamy spinach and artichoke dip served with tortilla chips.",
+          "price": 8.99,
+          "image": "/static/media/dinner3.336624e45be95b3f88e8.png"
+        }
+      ]
+    },
+    {
+      "section_name": "pasta",
+      "items": [
+        {
+          "name": "Spaghetti Carbonara",
+          "description": "Classic spaghetti with creamy carbonara sauce, bacon, and parmesan cheese.",
+          "price": 12.99,
+          "image": "/static/media/breakfast1.029174cee5bc3d9aada4.png"
+        },
+        {
+          "name": "Penne Primavera",
+          "description": "Penne pasta tossed with fresh vegetables in a light olive oil and garlic sauce.",
+          "price": 11.99,
+          "image": "/static/media/dinner1.cdc7380300f22917664e.png"
+        },
+        {
+          "name": "Chicken Alfredo",
+          "description": "Grilled chicken and fettuccine pasta in a rich alfredo sauce.",
+          "price": 13.99,
+          "image": "/static/media/lunch1.1e64546f724cbd988498.png"
+        }
+      ]
+    },
+    {
+      "section_name": "Salads",
+      "items": [
+        {
+          "name": "Caesar Salad",
+          "description": "Crisp romaine lettuce, croutons, and parmesan cheese with Caesar dressing.",
+          "price": 9.99,
+          "image": "/static/media/breakfast2.659ea00738d60d82f5ed.png"
+        },
+        {
+          "name": "Greek Salad",
+          "description": "Fresh cucumbers, tomatoes, olives, and feta cheese with Greek vinaigrette.",
+          "price": 8.49,
+          "image": "/static/media/dinner2.897df94a0a8614d806a0.png"
+        },
+        {
+          "name": "Caprese Salad",
+          "description": "Slices of ripe tomatoes, fresh mozzarella, and basil with balsamic glaze.",
+          "price": 7.99,
+          "image": "/static/media/lunch2.5f01f1ce4ad4a63c1027.png"
+        }
+      ]
+    }
+  ],
+  "Tables": [
+    {
+      "id": 231,
+      "table_no": 231,
+      "seating_capacity": 5,
+      "status": "Available",
+      "reservation": {},
+      "orders": []
+    },
+    {
+      "id": 232,
+      "table_no": 232,
+      "seating_capacity": 5,
+      "status": "Available",
+      "reservation": {},
+      "orders": []
+    },
+    {
+      "id": 234,
+      "table_no": 234,
+      "seating_capacity": 5,
+      "status": "Available",
+      "reservation": {},
+      "orders": []
+    },
+    {
+      "id": 235,
+      "table_no": 235,
+      "seating_capacity": 1,
+      "status": "Available",
+      "reservation": {},
+      "orders": []
+    },
+    {
+      "id": 320,
+      "table_no": 320,
+      "seating_capacity": 2,
+      "status": "Available",
+      "reservation": {},
+      "orders": []
+    },
+    {
+      "id": 321,
+      "table_no": 321,
+      "seating_capacity": 3,
+      "status": "Available",
+      "reservation": {},
+      "orders": []
+    },
+    {
+      "id": 322,
+      "table_no": 322,
+      "seating_capacity": 4,
+      "status": "Available",
+      "reservation": {},
+      "orders": []
+    }
+  ],
+  "feedback": [
+    {
+      "id": 1,
+      "customer_name": "Emily Johnson",
+      "rating": 4.8,
+      "feedback_text": "I had an amazing stay at Luxury Haven Hotel. The staff was incredibly welcoming, and the room was spacious and luxurious. The only minor issue was a slow Wi-Fi connection."
+    },
+    {
+      "id": 2,
+      "customer_name": "Michael Parker",
+      "rating": 5.0,
+      "feedback_text": "Seaside Retreat Resort exceeded my expectations. The beachfront view from my room was breathtaking, and the service was impeccable. I can't wait to return!"
+    },
+    {
+      "id": 3,
+      "customer_name": "Sophia Chen",
+      "rating": 4.5,
+      "feedback_text": "I enjoyed my stay at Downtown Suites. The location was convenient, and the room was clean and comfortable. The only drawback was limited parking space."
+    },
+    {
+      "id": 4,
+      "customer_name": "Alex Turner",
+      "rating": 4.7,
+      "feedback_text": "Mountain Lodge Inn offered a serene escape. The mountain views were breathtaking, and the cozy atmosphere made it a perfect getaway. The breakfast options could be more diverse."
+    },
+    {
+      "id": 5,
+      "customer_name": "Olivia Smith",
+      "rating": 4.9,
+      "feedback_text": "Urban Oasis Hotel was a true oasis of relaxation. The amenities were top-notch, and the spa was heavenly. The only suggestion would be to have more vegetarian dining options."
+    },
+    {
+      "id": 6,
+      "customer_name": "William Garcia",
+      "rating": 4.6,
+      "feedback_text": "I appreciated the historical ambiance of Cultural Heritage Inn. The decor was captivating, and the staff was knowledgeable. It would be great to have more modern amenities."
+    },
+    {
+      "id": 7,
+      "customer_name": "Sophie Martin",
+      "rating": 4.8,
+      "feedback_text": "Gastronome Suites delighted my taste buds. The restaurant's culinary creations were exceptional, and the presentation was artful. The service, however, had slight delays."
+    },
+    {
+      "id": 8,
+      "customer_name": "David Thompson",
+      "rating": 4.7,
+      "feedback_text": "Family Fun Resort was a hit with my kids. The activities kept them entertained, and the family-friendly environment was perfect. More variety in dining would make it even better."
+    },
+    {
+      "id": 9,
+      "customer_name": "Ava Rodriguez",
+      "rating": 4.9,
+      "feedback_text": "Modern Comforts Inn truly lived up to its name. The room's tech features were convenient, and the bed was incredibly comfortable. A USB charging port next to the bed would be handy."
+    },
+    {
+      "id": 10,
+      "customer_name": "Daniel Lee",
+      "rating": 4.6,
+      "feedback_text": "Efficient Business Hotel had the amenities I needed for my work trip. The meeting facilities were well-equipped, and the location was ideal. Some noise from the nearby road was noticeable."
+    }
+  ],
+  "todo": [
+    {
+      "id": 1,
+      "title": "delectus aut autem",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "quis ut nam facilis et officia qui",
+      "completed": false
+    }
+  ]
 }
-
-
-  
